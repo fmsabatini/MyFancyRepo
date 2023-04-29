@@ -6,7 +6,7 @@ Unfortunatel, the rate of plant extinction is acelerating,
 with estimats sugesting that up to 10,000 species may be lost every year. 
 This is due to a range of factors,
 including habitat destruciton, 
-clmiate change, and invasive specieis introductions. 
+climate change, and invasive species introductions. 
 Maintaining plant biodiversty is critial for the survial of both plant and animl speices, 
 as well as the humna popualtion.
 
