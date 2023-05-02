@@ -1,9 +1,9 @@
 # The Importance of Plant Biodiversity
 
-Planb biodiversity is the vareity of plants that exists in a given area. 
-It is importnat for sustanence and provides a variety of recources for humna use. 
-Unfortunatel, the rate of plant extinction is acelerating, 
-with estimats sugesting that up to 10,000 species may be lost every year. 
+Plant biodiversity is the vareity of plants that exists in a given area. 
+It is important for sustanence and provides a variety of resources for human use. 
+Unfortunately, the rate of plant extinction is acelerating, 
+with estimats suggesting that up to 10,000 species may be lost every year. 
 This is due to a range of factors,
 including habitat destruction, 
 climate change, and invasive species introductions. 
